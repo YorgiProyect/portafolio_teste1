@@ -1,5 +1,3 @@
-```
-
 # 🚀 Portfólio
 
 Bem-vindo ao meu portfólio desenvolvido com conhecimentos dos cursos da **Alura**.
@@ -27,8 +25,4 @@ Projeto de portfólio front-end e back-end demonstrando minhas habilidades e pro
 [LinkedIn](https://www.linkedin.com/in/yorgiproyect/
 ) | [GitHub](https://github.com/YorgiProyect)
 
----
-
 Desenvolvido com ❤️ por Jorge Acosta na alura
-
-```
