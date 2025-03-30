@@ -18,7 +18,7 @@ Projeto de portfólio front-end e back-end demonstrando minhas habilidades e pro
 - Apresentação de projetos
 
 ## 🔗 Demo
-![Ver projeto online](https://portafolio-teste1.vercel.app)
+[Ver projeto online](https://portafolio-teste1.vercel.app)
 
 ## 👨‍💻 Autor
 **Jorge Acosta**  
