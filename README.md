@@ -18,11 +18,11 @@ Projeto de portfólio front-end e back-end demonstrando minhas habilidades e pro
 - Apresentação de projetos
 
 ## 🔗 Demo
-[Ver projeto online]
+![Ver projeto online](portafolio-teste1.vercel.app)
 
 ## 👨‍💻 Autor
 **Jorge Acosta**  
 [LinkedIn](https://www.linkedin.com/in/yorgiproyect/
 ) | [GitHub](https://github.com/YorgiProyect)
 
-Desenvolvido com ❤️ por Jorge Acosta na alura
+## Desenvolvido com ❤️ por Jorge Acosta na alura
