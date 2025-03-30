@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu portfólio desenvolvido com conhecimentos dos cursos da **Alura**.
 
-![Preview do Portfólio](https://github.com/YorgiProyect/Amigo_Secreto/issues/1#issue-2929744050)
+![Preview do Portfólio](https://github.com/user-attachments/assets/7b1d0532-35e9-4ad7-b283-bf048e323156)
 
 ## 📋 Sobre
 Projeto de portfólio front-end e back-end demonstrando minhas habilidades e projetos.
